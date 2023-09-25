@@ -1,5 +1,6 @@
 {
     "name": "avaibook/paycomet",
+    "type": "library",
     "description": "Swagger client for paycomet.",
     "keywords": [
         "swagger",
